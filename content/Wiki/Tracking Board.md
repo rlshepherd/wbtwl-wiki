@@ -30,8 +30,7 @@ kanban-plugin: board
 - [ ] [[Black Opal]]
 - [ ] [[Unicorn Horn]]
 - [ ] [[Abyssal Note]]
-- [ ] [[Pilot to Yon]]
-- [ ] [[Fennel's Sister is missing]]
+- [ ] Reward for capturing Will
 
 
 
