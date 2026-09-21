@@ -1,0 +1,11 @@
+{
+  "version": "1.0.0",
+  "plugins": {
+    "quartz-kanban-page": {
+      "source": "github:rlshepherd/quartz-kanban-page",
+      "resolved": "https://github.com/rlshepherd/quartz-kanban-page.git",
+      "commit": "9bb35ded7e8bffaf2fa037e295ede2e9ec7bb6a7",
+      "installedAt": "2026-09-21T06:05:30.322Z"
+    }
+  }
+}
