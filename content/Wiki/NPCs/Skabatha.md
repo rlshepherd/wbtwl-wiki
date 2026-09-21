@@ -1,5 +1,5 @@
 ---
 Associations:
-  - "[[Hourglass Coven]]"
   - "[[Loomlurch]]"
+  - "[[The Hourglass Coven]]"
 ---

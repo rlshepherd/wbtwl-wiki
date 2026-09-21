@@ -1,6 +1,6 @@
 ---
 Associations:
-  - "[[Hourglass Coven]]"
+  - "[[The Hourglass Coven]]"
 ---
 
 

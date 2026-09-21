@@ -1,5 +1,5 @@
 ---
 Associations:
-  - "[[Hourglass Coven]]"
   - "[[Downfall]]"
+  - "[[The Hourglass Coven]]"
 ---

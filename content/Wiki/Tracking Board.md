@@ -24,13 +24,13 @@ kanban-plugin: board
 ## Secrets and Clues
 
 - [ ] [[Lost Things]]
-- [ ] [[Hag Deal steal the portrait for Bavlorna]]
+- [ ] [[Steal a portrait for Bavlorna]]
 - [ ] [[Missing Children]]
 - [ ] [[Mysterious Hourglass]]
 - [ ] [[Black Opal]]
 - [ ] [[Unicorn Horn]]
 - [ ] [[Abyssal Note]]
-- [ ] [[Squirt can pilot Tither to Yon but needs oil]]
+- [ ] [[Pilot to Yon]]
 - [ ] [[Fennel's Sister is missing]]
 
 
@@ -38,6 +38,6 @@ kanban-plugin: board
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[false,false,false],"hide-card-count":true,"move-tags":true,"tag-colors":[{"tagKey":"","color":"","backgroundColor":""}],"tag-action":"obsidian","show-checkboxes":false,"new-note-folder":"Wiki"}
+{"kanban-plugin":"board","list-collapse":[false,false,false],"hide-card-count":true,"move-tags":false,"tag-colors":[{"tagKey":"","color":"","backgroundColor":""}],"tag-action":"obsidian","show-checkboxes":false,"new-note-folder":"Wiki","metadata-keys":[{"metadataKey":"Associations","label":"Assc","shouldHideLabel":true,"containsMarkdown":true}]}
 ```
 %%

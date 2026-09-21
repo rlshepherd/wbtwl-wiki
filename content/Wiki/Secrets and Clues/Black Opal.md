@@ -1,3 +1,8 @@
+---
+Associations:
+  - "[[Archfey Zybilna]]"
+  - "[[Lyra's family]]"
+---
 
 This opal originally belonged to [[Lyra's family]]. She stole it, along with some ordinary jewels, during her unceremonious exit from Waterdeep. 
 

@@ -1,7 +1,7 @@
 ---
 Type: NPC
 Associations:
-  - "[[The Soggy Court]]"
+  - "[[Downfall]]"
 ---
 
 Knight of the [[Soggy Court]]. 
