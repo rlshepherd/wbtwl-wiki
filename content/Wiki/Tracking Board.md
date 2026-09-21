@@ -12,7 +12,6 @@ kanban-plugin: board
 - [ ] [[Squirt]]
 - [ ] [[Lamorna the Unicorn]]
 - [ ] [[Morgot]]
-- [ ] [[The Witchlight Carnival]]
 
 
 ## Treasure
